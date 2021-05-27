@@ -1,0 +1,9 @@
+.btn-red{
+    border-radius: 2px;
+    background-color: red;
+    color: white;
+}
+.btn-red:hover{
+    background-color: #aa1b1b;
+    color: #ffffff;
+}
